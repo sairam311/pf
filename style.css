@@ -484,3 +484,8 @@ img {
     width: 450px;
   }
 }
+.resume-section{
+  display: flex; /* Set up flexbox layout */
+  justify-content: center; /* Horizontally center */
+  align-items: center; 
+}
